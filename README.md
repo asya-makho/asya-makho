@@ -1,4 +1,4 @@
-# Hi there, I'm Asia! 👋
+# Hi there, I'm Asiia! 👋
 
 I'm a student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), passionate about combining technology with science. I love exploring how complex systems work—from molecular biology to Linux environments and software architecture! 🧬💻
 
