@@ -33,7 +33,6 @@ I'm a student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), passionate abou
 
 ### 🌱 Currently learning:
 - **Advanced C++ (OOP):** Structuring projects, managing header files, and implementing class hierarchies.
-- **Java** ☕: Exploring enterprise development basics.
 - How to write clean, structured code and manage projects with Git & GitHub.
 
 ### ⚡ Fun fact:
