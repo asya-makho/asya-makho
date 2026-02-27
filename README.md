@@ -1,6 +1,6 @@
 # Hi there, I'm Asia! 👋
 
-I'm a student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), passionate about combining technology with science. I love exploring how complex systems work—from molecular biology and neurophysiology to Linux environments and software architecture! 🧬💻
+I'm a student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), passionate about combining technology with science. I love exploring how complex systems work—from molecular biology to Linux environments and software architecture! 🧬💻
 
 ### 🔭 What I'm currently up to:
 - Building projects and expanding my knowledge in **Python** 🐍
