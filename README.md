@@ -30,12 +30,5 @@ I'm a student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), passionate abou
 - **Java** ☕: Exploring enterprise development basics.
 - How to write clean, structured code and manage projects with Git & GitHub.
 
-### 📊 My GitHub Stats:
-### 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asia-makho&show_icons=true&theme=radical" alt="Asia's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asia-makho&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ### ⚡ Fun fact:
 I love finding the connection between different fields, whether it's understanding the etymology of words or figuring out how to animate math formulas with code! 🐢❤️
