@@ -17,7 +17,8 @@ I'm a student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), passionate abou
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**System & Environments:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**System & Environments:** ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -29,6 +30,7 @@ I'm a student at Igor Sikorsky Kyiv Polytechnic Institute (KPI), passionate abou
 - **Java** ☕: Exploring enterprise development basics.
 - How to write clean, structured code and manage projects with Git & GitHub.
 
+### 📊 My GitHub Stats:
 ### 📊 My GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asia-makho&show_icons=true&theme=radical" alt="Asia's GitHub Stats" />
